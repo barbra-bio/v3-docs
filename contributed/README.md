@@ -19,8 +19,11 @@ The following content has been provided by users of the software. Feel free to c
 
 ## Installation guides
 
+- 2021-04-24 [Chevereto图床搭建 | 利用云服务器搭建免费图床完整教程](https://blog.csdn.net/JunyouYH/article/details/116092326)
 - 2021-04-01 [Ubuntu20.04搭建Chevereto图床](https://www.cherishspring.cn/archives/chevereto.html)
-- 2021-03-24 [利用chevereto搭建自己的图床](https://zhuanlan.zhihu.com/p/359545072)
+- 2021-03-31 [Webstation php,群晖非docker通过WebStation安装Chevereto](https://blog.csdn.net/weixin_30199835/article/details/116262599)
+- 2021-03-31 [Nginx、MySQL、PHP安装，Chevereto图床搭建～](https://blog.csdn.net/maoyu0601/article/details/115343996)
+- 2021-03-24 [利1用chevereto搭建自己的图床](https://zhuanlan.zhihu.com/p/359545072)
 - 2020-12-16 [Install Chevereto – Open Source Image Hosting Website Using Docker](https://www.51sec.org/2020/12/16/install-chevereto-open-source-image-hosting-website-using-docker/)
 - 2020-10-28 [chevereto收费版安装教程，这可能是我用过最好的图床程序了！](https://www.shejibiji.com/archives/4672)
 - 2020-10-24 [群晖通过Docker安装图床工具Chevereto的步骤](https://www.weizhiyong.com/archives/4309)
@@ -55,12 +58,16 @@ The following content has been provided by users of the software. Feel free to c
 - 2019-11-01 [CentOS下使用Docker搭建Chevereto图床](https://www.qinayu.cn/posts/1e84ba96.html)
 - 2019-08-29 [Chevereto安装教程](https://yremp.live/chevereto/)
 - 2019-05-18 [Chevereto免费相册程序安装与使用-免费自建图床和公共图片相册](https://wzfou.com/chevereto/)
+- [Chevereto使用又拍云实现图片存储](https://jszbug.com/10697)
+
 
 ## Guides
 
+- 2021-04-24 [宝塔面板搭建个人图床Chevereto完整教程](https://blog.csdn.net/weixin_46628200/article/details/116098623) 
 - 2021-04-10 [[图床] 使用腾讯云轻量服务器 + 腾讯云 CDN 搭建 Chevereto 图床和加速分发方案](https://www.idc.moe/archives/QCloud-Lighthouse-BTPremium-Chevereto-CDN.html)
 - 2021-04-10 [Chevereto图床伪静态Rewrite规则（Nginx/Apache](https://pc6a.com/3680.html)
 - 2021-04-05 [用宝塔搭建Chevereto图床](https://www.queyikeji.cn/372.html)
+- 2021-04-02 [图片上传api——chevereto个人图床搭建&后端发送请求](https://blog.csdn.net/qq_42038623/article/details/115386219)
 - 2021-03-26 [如何使用 chevereto 搭建免费图床系统](https://www.ml6x.com/pages/851.html)
 - 2021-02-28 [Chevereto-搭建一个自己的图床](https://blog.csdn.net/qq_44022113/article/details/114239677)
 - 2021-01-24 [[已解决]Chevereto后台在线升级出现Can’t write into /app/install/update/temp/ path 的错](https://www.4dmayi.com/3105.html)
