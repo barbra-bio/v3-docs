@@ -2,7 +2,7 @@
 
 The following content has been provided by users of the software. Feel free to contribute yours and show others.
 
-## Software
+## 💽 Software
 
 - [linuxserver/docker-chevereto](https://github.com/linuxserver/docker-chevereto)
 - [M1Screw/Chevereto-Telegram-Bot](https://github.com/M1Screw/Chevereto-Telegram-Bot)
@@ -10,16 +10,16 @@ The following content has been provided by users of the software. Feel free to c
 - [zhujia18/flarum-chevereto](https://github.com/zhujia18/flarum-chevereto)
 - [xiebruce/PicUploader](https://gitee.com/xiebruce/PicUploader/)
 
-## Videos
+## 📺 Videos
 
-- 2020-09-08 [Chevereto图床搭建教程 | VPS搭建个人图床 小白一学就会的搭建教学 属于自己的图床 谷歌云GCP一键宝塔安装 简单图床教学](https://www.youtube.com/watch?v=QLa9VC1r94A)
-- 2020-08-07 [Chevereto Installed on Docker - Self-Hosted Imgur](https://www.youtube.com/watch?v=SO4Mt0ikukY)
-- 2020-07-27 [Let's Install Chevereto with Docker! Self-Hosted Image Hosting](https://www.youtube.com/watch?v=zcliC-QIVgE)
+- 2020-09-08 **Pagoda** [Chevereto图床搭建教程 | VPS搭建个人图床 小白一学就会的搭建教学 属于自己的图床 谷歌云GCP一键宝塔安装 简单图床教学](https://www.youtube.com/watch?v=QLa9VC1r94A)
+- 2020-08-07 ⭐ [Chevereto Installed on Docker - Self-Hosted Imgur](https://www.youtube.com/watch?v=SO4Mt0ikukY)
+- 2020-07-27 ⭐ [Let's Install Chevereto with Docker! Self-Hosted Image Hosting](https://www.youtube.com/watch?v=zcliC-QIVgE)
 - 2020-05-28 [【群晖NAS】商用级图床项目，Chevereto](https://www.youtube.com/watch?v=h26LpCaBXiY)
 
 ## Installation guides
 
-- 2021-04-24 [Chevereto图床搭建 | 利用云服务器搭建免费图床完整教程](https://blog.csdn.net/JunyouYH/article/details/116092326)
+- 2021-04-24 Tutorial completo usando servidor en la nube [Chevereto图床搭建 | 利用云服务器搭建免费图床完整教程](https://blog.csdn.net/JunyouYH/article/details/116092326)
 - 2021-04-01 [Ubuntu20.04搭建Chevereto图床](https://www.cherishspring.cn/archives/chevereto.html)
 - 2021-03-31 [Webstation php,群晖非docker通过WebStation安装Chevereto](https://blog.csdn.net/weixin_30199835/article/details/116262599)
 - 2021-03-31 [Nginx、MySQL、PHP安装，Chevereto图床搭建～](https://blog.csdn.net/maoyu0601/article/details/115343996)
